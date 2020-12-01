@@ -2,10 +2,9 @@
  Our Website
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title> For The Love Of Books</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 <style>
 body, html {
@@ -16,7 +15,7 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("/w3images/coffeehouse.jpg");
+  background-image: book love;
   min-height: 75%;
 }
 
