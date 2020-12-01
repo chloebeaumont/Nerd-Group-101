@@ -15,7 +15,7 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: book love;
+  background-image: book love.jpeg;
   min-height: 75%;
 }
 
